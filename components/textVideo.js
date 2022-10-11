@@ -7,7 +7,7 @@ export const TextVideo = () => {
   loop
   autoPlay
   className=" h-full w-full object-cover"
-  src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  src="https://vimeo-hp-videos.global.ssl.fastly.net/5/5-vp9.webm"
 />
 <h1 className="text-[8rem] lg:text-[14rem] leading-[1] font-black absolute inset-0 w-full h-full bg-gradient-to-r from-indigo-100 via-purple-100 to-pink-100 items-center  flex flex-col justify-center mix-blend-screen text-black">
   <span className="block"> FIDI </span>
